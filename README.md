@@ -10,6 +10,8 @@ Install dependencies (requires Node.js and npm):
 npm install
 ```
 
+This project uses [Tailwind CSS](https://tailwindcss.com/) and [PixiJS](https://pixijs.com/) for 2D graphics. The configuration files for Tailwind are included in the repository.
+
 Run the development server:
 
 ```bash
